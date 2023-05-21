@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently currently a graduate student working on X-ray burst simulations.
+- 📫 How to reach me: email: zhi.chen.3@stonybrook.edu
+
+
 <!--
 **zhichen3/zhichen3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
