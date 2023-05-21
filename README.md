@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently currently a graduate student working on X-ray burst simulations.
+- 🔭 I’m currently a graduate student working on X-ray burst simulations.
 - 📫 How to reach me: email: zhi.chen.3@stonybrook.edu
 
 
